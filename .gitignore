@@ -1,0 +1,9 @@
+node_modules
+.slide-build/
+.chart-data-*/
+previews/
+*.inspect.ndjson
+build_day24_*.mjs
+dump_rows.mjs
+inspect_*.mjs
+.DS_Store
